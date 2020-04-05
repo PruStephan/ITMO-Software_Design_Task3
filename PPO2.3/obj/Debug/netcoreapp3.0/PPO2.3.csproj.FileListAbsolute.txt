@@ -1,0 +1,13 @@
+/Users/stephan/RiderProjects/PPO2.3/PPO2.3/bin/Debug/netcoreapp3.0/PPO2.3
+/Users/stephan/RiderProjects/PPO2.3/PPO2.3/bin/Debug/netcoreapp3.0/PPO2.3.deps.json
+/Users/stephan/RiderProjects/PPO2.3/PPO2.3/bin/Debug/netcoreapp3.0/PPO2.3.runtimeconfig.json
+/Users/stephan/RiderProjects/PPO2.3/PPO2.3/bin/Debug/netcoreapp3.0/PPO2.3.runtimeconfig.dev.json
+/Users/stephan/RiderProjects/PPO2.3/PPO2.3/bin/Debug/netcoreapp3.0/PPO2.3.dll
+/Users/stephan/RiderProjects/PPO2.3/PPO2.3/bin/Debug/netcoreapp3.0/PPO2.3.pdb
+/Users/stephan/RiderProjects/PPO2.3/PPO2.3/bin/Debug/netcoreapp3.0/Npgsql.dll
+/Users/stephan/RiderProjects/PPO2.3/PPO2.3/obj/Debug/netcoreapp3.0/PPO2.3.csprojAssemblyReference.cache
+/Users/stephan/RiderProjects/PPO2.3/PPO2.3/obj/Debug/netcoreapp3.0/PPO2.3.AssemblyInfoInputs.cache
+/Users/stephan/RiderProjects/PPO2.3/PPO2.3/obj/Debug/netcoreapp3.0/PPO2.3.AssemblyInfo.cs
+/Users/stephan/RiderProjects/PPO2.3/PPO2.3/obj/Debug/netcoreapp3.0/PPO2.3.csproj.CopyComplete
+/Users/stephan/RiderProjects/PPO2.3/PPO2.3/obj/Debug/netcoreapp3.0/PPO2.3.dll
+/Users/stephan/RiderProjects/PPO2.3/PPO2.3/obj/Debug/netcoreapp3.0/PPO2.3.pdb
